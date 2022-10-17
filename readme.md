@@ -1,6 +1,6 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
+# Food App
 
-Used in [DevSecOps Pipeline Demo](https://github.com/rcarrata/devsecops-demo)
+Food App used in [Red Hat Summit Connect Rome 2022]
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
